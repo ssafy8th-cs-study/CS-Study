@@ -1,12 +1,21 @@
 {
-  "projectName": "REPOSITORYR_NAME",
-  "projectOwner": "REPOSITORY_OWNER_NAME",
+  "projectName": "CS-Study",
+  "projectOwner": "ssafy8th-cs-study",
   "files": [
     "README.md"
   ],
   "imageSize": 100,
   "commit": false,
   "contributors": [
+    {
+      "login": "irang6v6",
+      "name": "남이랑",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42470768?v=4",
+      "profile": "https://github.com/irang6v6",
+      "contributions": [
+        "code"
+      ]
+    }
   ],
   "contributorsPerLine": 6,
   "repoType": "github",
