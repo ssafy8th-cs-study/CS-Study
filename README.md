@@ -9,7 +9,7 @@
     <td align="center"><a href="https://github.com/juyeon-y"><img src="https://avatars.githubusercontent.com/u/52191425?v=4?s=100" width="100px;" alt=""/><br /><sub><b>juyeon-y</b></sub></a><br /><a href="https://github.com/ssafy8th-cs-study/CS-Study/commits?author=juyeon-y" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/hubhubhub98"><img src="https://avatars.githubusercontent.com/u/54929520?v=4?s=100" width="100px;" alt=""/><br /><sub><b>김영경</b></sub></a><br /><a href="https://github.com/ssafy8th-cs-study/CS-Study/commits?author=hubhubhub98" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/irang6v6"><img src="https://avatars.githubusercontent.com/u/42470768?v=4?s=100" width="100px;" alt=""/><br /><sub><b>남이랑</b></sub></a><br /><a href="https://irangeight.notion.site/1-f6e5a966b41f4e57804c7f5da58866e0" title="Code">notion💻</a></td>
-    <td align="center"><a href="https://github.com/bora2292"><img src="https://avatars.githubusercontent.com/u/110080343?v=4?s=100" width="100px;" alt=""/><br /><sub><b>bora</b></sub></a><br /><a href="https://github.com/ssafy8th-cs-study/CS-Study/commits?author=bora2292" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/bora2292"><img src="https://avatars.githubusercontent.com/u/110080343?v=4?s=100" width="100px;" alt=""/><br /><sub><b>bora</b></sub></a><br /><a href="https://leather-filament-67a.notion.site/be9f45c6595a40adab00d85b098f3eb2?v=e85648e0078547eaa29b4283f33a6b15" title="Code">💻</a></td>
   </tr>
 </table>
 
